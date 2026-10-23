@@ -1,0 +1,27 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Coolt
+authors:
+  - family-names: Gonçalves Gomes Amaral
+    given-names: Pedro Augusto
+  - family-names: Michetti Costa Santos
+    given-names: Julia
+  - family-names: Akl Barbalho Falqueto
+    given-names: Matheus
+  - family-names: Hipólito da Silva Braga Reis
+    given-names: Victor
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: do Val Machado
+    given-names: Max
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Jeunon de Alencar
+    given-names: Bernardo
+keywords:
+  - Cultura
+  - Eventos
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
